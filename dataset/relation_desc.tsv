@@ -1,0 +1,176 @@
+P175	performer	performer involved in the performance or the recording of a musical work
+P150	contains administrative territorial entity	(list of) direct subdivisions of an administrative territorial entity
+P178	developer	organisation or person that developed the item
+P57	director	director(s) of film, TV-series, stageplay, video game or similar
+P159	headquarters location	specific location where an organization's headquarters is or has been situated
+P740	location of formation	location where a group or organization was formed
+P112	founded by	founder or co-founder of this organization, religion or place
+P1532	country for sport	country a person or a team represents when playing a sport
+P103	native language	language or languages a person has learned from birth
+P449	original network	network(s) the radio or television show was originally aired on, including
+P1441	present in work	work in which this fictional entity (Q14897293) or historical person is present
+P413	position played on team / speciality	position or specialism of a player on a team, e.g. Small Forward
+P4552	mountain range	range or subrange to which the geographical item belongs
+P364	original language of work	language in which a film or a performance work was originally created
+P400	platform	platform for which a work was developed or released, or the specific platform version of a software product
+P974	tributary	stream or river that flows into this main stem (or parent) river
+P58	screenwriter	person(s) who wrote the script for subject item
+P47	shares border with	countries or administrative subdivisions, of equal level, that this item borders, either by land or water
+P800	notable work	notable scientific, artistic or literary work, or other work of significance among subject's works
+P403	mouth of the watercourse	the body of water to which the watercourse drains
+P1303	instrument	musical instrument that a person plays
+P641	sport	sport in which the subject participates or belongs to
+P137	operator	person or organization that operates the equipment, facility, or service; use country for diplomatic missions
+P1412	languages spoken, written or signed	language(s) that a person speaks or writes, including the native language(s)
+P106	occupation	occupation of a person
+P131	located in the administrative territorial entity	the item is located on the territory of the following administrative entity
+P241	military branch	branch to which this military unit, award, office, or person belongs, e.g. Royal Navy
+P136	genre	creative work's genre or an artist's field of work (P101)
+P36	capital	primary city of a country, state or other type of administrative territorial entity
+P206	located in or next to body of water	sea, lake or river
+P30	continent	continent of which the subject is a part
+P26	spouse	the subject has the object as their spouse (husband, wife, partner, etc.)
+P162	producer	person(s) who produced the film, musical work, theatrical production, etc
+P17	country	sovereign state of this item; don't use on humans
+P127	owned by	owner of the subject
+P40	child	subject has the object in their family as their offspring son or daughter (independently of their age)
+P19	place of birth	most specific known (e.g. city instead of country, or hospital instead of city) birth location of a person, animal or fictional character
+P123	publisher	organization or person responsible for publishing books, periodicals, games or software
+P22	father	male parent of the subject
+P179	series	subject is part of a series, the sum of which constitutes the object
+P27	country of citizenship	the object is a country that recognizes the subject as its citizen
+P495	country of origin	country of origin of this item (creative work, food, phrase, product, etc.)
+P749	parent organization	parent organization of an organisation, opposite of subsidiaries (P355)
+P59	constellation	the area of the celestial sphere of which the subject is a part (from a scientific standpoint, not an astrological one)
+P607	conflict	battles, wars or other military engagements in which the person or item participated
+P1376	capital of	country, state, department, canton or other administrative division of which the municipality is the governmental seat
+P20	place of death	most specific known (e.g. city instead of country, or hospital instead of city) death location of a person, animal or fictional character
+P105	taxon rank	level in a taxonomic hierarchy
+P840	narrative location	the narrative of the work is set in this location
+P412	voice type	person's voice type. expected values: soprano, mezzo-soprano, contralto, countertenor, tenor, baritone, bass (and derivatives)
+P86	composer	person(s) who wrote the music
+P81	connecting line	railway or public transport line(s) subject is directly connected to
+P551	residence	the place where the person is or has been, resident
+P25	mother	female parent of the subject. For stepmother
+P108	employer	person or organization for which the subject works or worked
+P176	manufacturer	manufacturer or producer of this product
+P138	named after	entity or event that inspired the subject's name, or namesake (in at least one language)
+P452	industry	industry of company or organization
+P144	based on	the work(s) used as the basis for subject item
+P264	record label	brand and trademark associated with the marketing of subject music recordings and music videos
+P161	cast member	actor performing live for a camera or audience
+P101	field of work	specialization of a person or organization
+P272	production company	company that produced this film, audio or performing arts work
+P102	member of political party	the political party of which this politician is or has been a member
+P97	noble title	titles held by the person
+P1366	replaced by	other person or item which continues the item by replacing it in its role
+P750	distributor	distributor of a creative work
+P463	member of	organization or club to which the subject belongs
+P366	use	main use of the subject (includes current and former usage)
+P170	creator	maker of this creative work or other object (where no more specific property exists)
+P460	said to be the same as	this item is said to be the same as that item, but the statement is disputed
+P140	religion	religion of a person, organization or religious building, or associated with this subject
+P915	filming location	actual place where this scene/film was shot
+P3373	sibling	the subject has the object as their sibling (brother, sister, etc.)
+P937	work location	location where persons were active
+P3450	sports season of league or competition	property that shows the competition of which the item is a season
+P1344	participant of	event a person or an organization was/is a participant in
+P1454	legal form	legal form of an organization
+P410	military rank	military rank achieved by a person (should usually have a start date qualifier), or military rank associated with a position
+P119	place of burial	location of grave, resting place, place of ash-scattering, etc, (e.g. town/city or cemetery) for a person or animal. There may be several places: e.g. re-burials, cenotaphs, parts of body buried separately.
+P39	position held	subject currently or formerly holds the object position or public office
+P2094	competition class	official classification by a regulating body under which the subject (events, teams, participants, or equipment) qualifies for inclusion
+P155	follows	immediately prior item in a series of which the subject is a part
+P54	member of sports team	sports teams or clubs that the subject currently represents or formerly represented
+P276	location	location of the item, physical object or event is within
+P361	part of	object of which the subject is a part
+P156	followed by	immediately following item in a series of which the subject is a part
+P1001	applies to jurisdiction	the item (an institution, law, public office ...) or statement belongs to or has power over or applies to the value (a territorial jurisdiction: a country, state, municipality, ...)
+P84	architect	person or architectural firm that designed this building
+P53	family	family, including dynasty and nobility houses
+P118	league	league in which team or player plays or has played in
+P172	ethnic group	subject's ethnicity (consensus is that a VERY high standard of proof is needed for this field to be used. In general this means 1) the subject claims it him/herself, or 2) it is widely agreed on by scholars, or 3) is fictional and portrayed as such).
+P180	depicts	depicted entity
+P1365	replaces	person or item replaced
+P407	language of work or name	language associated with this work or name
+P291	place of publication	geographical place of publication of the edition (use 1st edition when referring to works)
+P135	movement	literary, artistic, scientific or philosophical movement associated with this person or work
+P527	has part	part of this subject. Inverse property of part of (P361).
+P1040	film editor	person who works with the raw footage, selecting shots and combining them into sequences to create a finished motion picture
+P1346	winner	winner of an event or award - do not use for wars or battles
+P31	instance of	that class of which this subject is a particular example and member (subject typically an individual member with a proper name label)
+P171	parent taxon	closest parent taxon of the taxon in question
+P1853	blood type	blood type of the human or animal
+P1269	facet of	topic of which this item is an aspect, item that offers a broader perspective on the same topic
+P69	educated at	educational institution attended by subject
+P4908	season	season of a television episode
+P710	participant	person, group of people or organization (object) that actively takes/took part in an event or process (subject)
+P279	subclass of	all instances of these items are instances of those items; this item is a class (subset) of that item
+P793	significant event	significant or notable events associated with the subject
+P669	located on street	street, road, or square, where the item is located
+P344	director of photography	person responsible for the framing, lighting and filtration of the subject work
+P509	cause of death	underlying or immediate cause of death. Underlying cause (e.g. car accident, stomach cancer) preferred
+P61	discoverer or inventor	the person who discovered, first described, invented, or developed this discovery or invention
+P1889	different from	item that is different from another item, but they are often confused
+P1268	represents	organization or individual that an entity represents
+P559	terminus	the feature (intersecting road, train station, etc.) at the end of a linear feature
+P2348	time period	time period (historic period or era, sports season, theatre season, legislative period etc.) in which the subject occurred
+P166	award received	award or recognition received by a person, organisation or creative work
+P50	author	main creator(s) of a written work (use on works, not humans)
+P197	adjacent station	the stations next to this station, sharing the same line(s)
+P196	minor planet group	is in grouping of minor planets according to similar orbital characteristics
+P708	diocese	administrative division of the church to which the element belongs
+P462	color	color of subject
+P186	material used	material the subject is made of or derived from
+P275	license	license under which this copyrighted work is released
+P702	encoded by	the gene that encodes some gene product
+P735	given name	first name or another given name of this person; values used with the property shouldn't link disambiguations nor family names
+P688	encodes	the product of a gene (protein or RNA)
+P360	is a list of	common element between all listed items
+P126	maintained by	person or organization in charge of keeping the subject (for instance an infrastructure) in functioning order
+P1411	nominated for	award nomination received by a person, organisation or creative work
+P684	ortholog	orthologous gene in another species (use with 'species' qualifier)
+P1435	heritage designation	heritage designation of a cultural or natural site
+P149	architectural style	architectural style of a structure
+P16	highway system	system (or specific country specific road type) of which the highway is a part
+P2868	subject has role	role or generic identity of subject (the item that the statement is on) in a certain context
+P195	collection	art, museum or bibliographic collection the subject is part of
+P1196	manner of death	circumstances of a person's death; one of: natural causes, accident, suicide, homicide, pending investigation or special 'unknown value'
+P21	sex or gender	sexual identity of subject
+P4614	drainage basin	area where precipitation collects and drains off into a common outlet, such as into a river, bay, or other body of water
+P859	sponsor	organization or individual that sponsors this item
+P734	family name	surname or last name of a person
+P566	basionym	the legitimate, previously published name on which a new combination or name at new rank is based
+P427	taxonomic type	the type genus of this family (or subfamily, etc), or the type species of this genus (or subgenus, etc)
+P2079	fabrication method	method, process or technique used to grow, cook, weave, build, assemble, manufacture the item
+P921	main subject	primary topic of a work (see also P180: depicts)
+P512	academic degree	academic degree that the person holds
+P5138	season of club or team	club or team that played the season
+P282	writing system	alphabet, character set or other system of writing used by subject language
+P65	site of astronomical discovery	the place where an astronomical object was discovered (observatory, satellite)
+P681	cell component	component of the cell in which this item is present
+P404	game mode	a video game's available playing mode(s)
+P1343	described by source	dictionary, encyclopaedia, etc. where this item is described
+P768	electoral district	electoral district this person is representing. Use as qualifier for position held (P39)
+P518	applies to part	part, aspect, or form of the item to which the claim applies
+P1792	category of associated people	Wikimedia category for people associated with this place
+P248	stated in	to be used in the references field to refer to the information source in which a claim is made; for qualifiers use P805
+P805	statement is subject of	(qualifier only) item which describes the relation identified in this statement
+P421	located in time zone	time zone for this item
+P2061	aspect ratio	image width to height ratio of films, photographs, and other images
+P1640	curator	content specialist responsible for this collection or exhibition
+P1057	chromosome	chromosome on which an entity is localized
+P682	biological process	is involved in the biological process
+P972	catalog	catalog for the item
+P3602	candidacy in election	election where the subject is a candidate
+P1754	category related to list	Wikimedia category equivalent to a Wikimedia list
+P1753	list related to category	Wikimedia list equivalent to a Wikimedia category
+P4100	parliamentary group	parliamentary group which a member of a parliament belongs to
+P5166	established from medical condition	cell line or xenograft established from an individual person or animal with a specific medical condition
+P1534	end cause	qualifier to use together with the end date qualifier (P582) to specify the cause
+P642	of	qualifier stating that a statement applies within the scope of a particular item
+P703	found in taxon	the taxon in which the item can be found
+P910	topic's main category	main Wikimedia category
+P459	determination method	how a value is determined, or the standard by which it is declared
+P2701	file format	file format, compression type, or ontology used in a file
+P37	official language	language designated as official by this item
